@@ -1,4 +1,7 @@
 /* line 347, ../bower_components/foundation/scss/foundation/components/_global.scss */
+#disclaimer{
+font-size: 10px;
+}
 meta.foundation-version {
   font-family: "/5.4.7/";
 }
